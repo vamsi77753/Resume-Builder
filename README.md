@@ -1,7 +1,7 @@
 # Resume-builder
 # Here you can create your own resume in a simple way for the better opportunities and can download the resume you created.
 
-# two.html
+# index.html
 Home page
 
 ![Screenshot 2024-06-07 142859](https://github.com/vamsi77753/Resume-Builder/assets/131426078/55cbe0b0-53fc-45d7-a5ab-12e1931f12c3)
